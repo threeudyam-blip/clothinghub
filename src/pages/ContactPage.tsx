@@ -122,7 +122,7 @@ const credentials = [
     label: 'Physical Operating Address',
     content: (
       <address className="not-italic text-charcoal font-semibold text-sm leading-relaxed">
-        CLOTHES HUB Pvt. Ltd.<br />
+        CLOTHES HUB<br />
         238, Hodal Punhana Road<br />
         Punahana, Nuh, Haryana — 122508, India<br />
         GSTIN: 06GFWPB8226N1ZP
@@ -218,7 +218,7 @@ export default function ContactPage() {
               Official Support &amp; Corporate Office
             </h2>
             <p className="text-sm text-muted mb-8 leading-relaxed">
-              All support is handled directly by CLOTHES HUB Pvt. Ltd. We are a registered Indian business
+              All support is handled directly by CLOTHES HUB. We are a registered Indian business
               committed to transparent customer service.
             </p>
 

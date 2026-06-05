@@ -62,7 +62,7 @@ export default function Footer() {
             <div className="space-y-2 text-sm text-white/50">
               <div className="flex items-start gap-2">
                 <MapPin size={14} className="mt-1 shrink-0" />
-                <span>CLOTHES HUB Pvt. Ltd. (Owner: BAHID), 238, Hodal Punhana Road, Punahana, Nuh, Haryana — 122508, India</span>
+                <span>CLOTHES HUB (Owner: BAHID), 238, Hodal Punhana Road, Punahana, Nuh, Haryana — 122508, India</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail size={14} className="shrink-0" />
@@ -141,7 +141,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-white/40 text-xs">
-              © {new Date().getFullYear()} CLOTHES HUB Pvt. Ltd. All rights reserved. GSTIN: 06GFWPB8226N1ZP
+              © {new Date().getFullYear()} CLOTHES HUB. All rights reserved. GSTIN: 06GFWPB8226N1ZP
             </p>
 
             {/* Payment Badges */}

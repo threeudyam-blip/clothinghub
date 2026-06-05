@@ -54,14 +54,14 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* Company Details */}
+      {/* Business Details */}
       <section className="bg-offwhite border-t border-border py-12">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h3 className="font-display text-xl font-semibold text-charcoal mb-4">Company Information</h3>
+          <h3 className="font-display text-xl font-semibold text-charcoal mb-4">Business Information</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm text-charcoal-muted">
             <div>
               <p className="font-medium text-charcoal">Registered Name</p>
-              <p>CLOTHES HUB Pvt. Ltd.</p>
+              <p>CLOTHES HUB</p>
             </div>
             <div>
               <p className="font-medium text-charcoal">Proprietor / Owner</p>
