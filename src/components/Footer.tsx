@@ -13,7 +13,7 @@ export default function Footer() {
     setNewsletterEmail('');
   }
 
-  return (
+  return ( 
     <footer className="bg-charcoal text-white">
       {/* Newsletter */}
       <div className="border-b border-white/10">
